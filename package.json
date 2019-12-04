@@ -1,0 +1,22 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petrides-anthony/adventofcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petrides-anthony/adventofcode/issues"
+  },
+  "homepage": "https://github.com/petrides-anthony/adventofcode#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
